@@ -1,0 +1,45 @@
+﻿<Window
+    x:Class="TaskManager.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="TaskManager"
+    Height="500"
+    Width="500">
+    <DockPanel
+        LastChildFill="False">
+        <ListView
+            Height="400"
+            DockPanel.Dock="Top"
+            Name="processListView"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn
+                        Header="ProcessName"
+                        Width="auto"
+                        DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn
+                        Header="ProcessID"
+                        Width="auto"
+                        DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn
+                        Header="Priority"
+                        Width="auto"
+                        DisplayMemberBinding="{Binding Priority}" />
+                    <GridViewColumn
+                        Header="MemoryUsage(MB)"
+                        Width="auto"
+                        DisplayMemberBinding="{Binding MemoryUsage}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button
+            DockPanel.Dock="Top"
+            Content="End selected process"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Bottom"
+            Click="EndSelectedProcess_Click"
+            Margin="10" />
+    </DockPanel>
+</Window>

@@ -1,0 +1,13 @@
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\liubibo\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
